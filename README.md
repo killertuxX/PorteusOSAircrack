@@ -25,4 +25,4 @@ Installation script for aircrack on the Porteus operating system.
 	./PorteusOSAircrack.sh 
 
 
-	and it should install it
+	and it should install aircrack
