@@ -10,8 +10,6 @@ Installation script for aircrack on the Porteus operating system.
 	make sure you are superuser by typing su 
 
 
-	install binutils using: usm -u all (if you haven't updated your databases) and then: usm -g binutils 
-
 
 	git clone https://github.com/killertuxX/PorteusOSAircrack/
 
